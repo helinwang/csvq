@@ -1,4 +1,4 @@
-# csvq make plain text acceptable by photoshop data set import
+# csvq makes plain text acceptable by photoshop data set import
 This tool converts strings into format that is acceptable by apply csv quoting and some other ticks.
 
 Photoshop can import strings from a file, but often it shows error message like
