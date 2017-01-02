@@ -1,7 +1,7 @@
 # csvq makes plain text acceptable by photoshop data set import
-This tool converts strings into format that is acceptable by apply csv quoting and some other ticks.
+This tool converts strings into format that is photoshop data set import acceptable format by apply csv quoting and some other ticks.
 
-Photoshop can import strings from a file, but often it shows error message like
+Photoshop can import strings from a text file, but often it shows error message like
 
 > Could not parse the file contents as a data set. Too many values were listed for data set 2 (or any integer).
 
